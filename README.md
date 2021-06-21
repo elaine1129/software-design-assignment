@@ -75,9 +75,9 @@ refer to folder 'UMLModelling'
 * Use Case Diagram
 
 ### Authors
-Elaine Low Jing Yi
-Low Ee Lyne
-Low Jia Wei
-Yeo Kai En
-Wong Yuk Han
+- Elaine Low Jing Yi
+- Low Ee Lyne
+- Low Jia Wei
+- Yeo Kai En
+- Wong Yuk Han
 
