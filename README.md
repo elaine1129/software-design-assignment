@@ -7,6 +7,8 @@
 
   - [UML Modelling](#uml-modelling)
 
+  - [Authors](#authors)
+
     
 
 
@@ -71,4 +73,11 @@ refer to folder 'UMLModelling'
 * Analysis Class Diagram
 * Design Class Diagram
 * Use Case Diagram
+
+### Authors
+Elaine Low Jing Yi
+Low Ee Lyne
+Low Jia Wei
+Yeo Kai En
+Wong Yuk Han
 
